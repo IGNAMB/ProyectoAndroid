@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">MyFirstForm</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="lastname">Lastname</string>
+    <string name="id">ID</string>
+    <string name="textViewFaculty">The faculty to which you belong is: </string>
+    <string name="textViewAt">You are currently at: </string>
+    <string name="login">Login</string>
+    <string name="saveProfile">Save</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="viewProfile">Profile</string>
+    <string name="register">Register</string>
+    <string name="confirm">Confirm</string>
+    <string name="exit">Exit</string>
+    <string name="save">Save</string>
+    <string name="user">User</string>
+    <string name="pass">Password</string>
+
+</resources>

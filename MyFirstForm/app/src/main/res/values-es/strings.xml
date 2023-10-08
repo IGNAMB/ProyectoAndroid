@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Nombre</string>
+    <string name="username">Nombre de Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="lastname">Apellido</string>
+    <string name="id">ID</string>
+    <string name="textViewFaculty">La facultad a la que perteneces es: </string>
+    <string name="textViewAt">Actualmente estás en la sede: </string>
+    <string name="login">Ingresar</string>
+    <string name="saveProfile">Guardar</string>
+    <string name="email">Correo</string>
+    <string name="phone">Teléfono</string>
+    <string name="address">Dirección</string>
+    <string name="viewProfile">Perfil</string>
+    <string name="register">Registrar</string>
+    <string name="confirm">Confirmar</string>
+    <string name="exit">Regresar</string>
+    <string name="save">Guardar</string>
+    <string name="user">Usuario</string>
+    <string name="pass">Contraseña</string>
+
+</resources>
